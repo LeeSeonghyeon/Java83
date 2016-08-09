@@ -5,9 +5,15 @@ OKOK
 5555
 66666
 77777
+<<<<<<< HEAD
 8888
 
 상일이 바봉
 성현이형 바보대마왕
 아 왜 안돼냐
 ㅋ
+=======
+8888
+상일이형 바보zzzzz,상일이 바봉
+성현이형 바보대마왕*2
+>>>>>>> branch 'master' of https://github.com/LeeSeonghyeon/Java83.git
