@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 OKOK
 2222
 3333
@@ -30,4 +31,6 @@ dsd
 >>>>>>> branch 'master' of https://github.com/LeeSeonghyeon/Java83.git
 asdada
 성현이형 바보대마왕*2
+>>>>>>> branch 'master' of https://github.com/LeeSeonghyeon/Java83.git
+=======
 >>>>>>> branch 'master' of https://github.com/LeeSeonghyeon/Java83.git
